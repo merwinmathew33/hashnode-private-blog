@@ -124,7 +124,7 @@ Tags are used to add additional information to YAML data, such as type informati
 Here is an example of using a tag to specify a custom data type in YAML:
 
 ```yaml
-yamlCopy code# Define a custom date format
+# Define a custom date format
 !date 2002-12-14
 ```
 
@@ -157,7 +157,7 @@ YAML is widely used in various domains and some real-world examples include:
     
 
 ```yaml
-yamlCopy codeport: 8080
+port: 8080
 bind_address: 0.0.0.0
 document_root: /var/www/html
 ```
